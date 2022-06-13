@@ -3,5 +3,6 @@ export default {
     registerPage: '/sign-up',
     loginPage: '/sign-in',
     tripPage: '/trip/:tripId',
-    bookingsPage: '/bookings'
+    bookingsPage: '/bookings',
+    notFoundPage: '*',
 };
